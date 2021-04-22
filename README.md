@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Ajith Kumar
+- 👀 I’m interested in Web Developing...
+- 🌱 I’m currently learning Java Script...
+- 📫 you can reach me @ajithkr0129@gmail.com...
+
+<!---
+Ajithkr0129/Ajithkr0129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
